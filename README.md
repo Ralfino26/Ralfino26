@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./987D900D-2DDB-4A33-B2EF-AC4B6321488D.png" alt="Ralf Hofman — Full-Stack Developer" />
+</p>
+
 # Ralf Hofman — Full-Stack Developer
 
 <p>
