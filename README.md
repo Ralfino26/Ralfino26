@@ -59,7 +59,7 @@ A part of these projects is being released as **open source**, step by step.
 ---
 
 ## 📬 Info
-**Mail:** info@byralf.com
+**Mail:** info@byralf.com  
 **Portfolio:** https://byralf.com  
 **Focus:** full-stack · infrastructure · selfhosting  
 **Style:** direct, efficient, no bullshit
