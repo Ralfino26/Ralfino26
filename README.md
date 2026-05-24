@@ -18,26 +18,6 @@ From family role-based apps to media ecosystems — I build and maintain it myse
 
 ---
 
-## ⚙️ Tech Stack
-**Frontend:** Next.js, React, Tailwind  
-**Backend:** Bun runtime, MongoDB, Supabase  
-**Infra:** Docker, Ubuntu, Hetzner VPS  
-**Selfhosting:** Jellyfin, Home Assistant, AdGuard, Portainer  
-**Networking:** Nginx Proxy Manager, Tailscale
-
----
-
-## 🏗️ What I Build
-- Role-based apps (used by family & friends)  
-- Automations on my homeserver  
-- Custom dashboards  
-- Next.js services running on my VPS  
-- Small tools that solve annoying problems  
-
-A part of these projects is being released as **open source**, step by step.
-
----
-
 ## 🌐 Portfolio
 **byralf.com**  
 → https://byralf.com
