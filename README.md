@@ -21,8 +21,9 @@ From family role-based apps to media ecosystems — I build and maintain it myse
 ## 🌐 Portfolio
 https://byralf.com
 
-![](https://raw.githubusercontent.com/Ralfino26/Ralfino26/output/github-contribution-grid-snake.svg)
+---
 
+![](https://raw.githubusercontent.com/Ralfino26/Ralfino26/output/github-contribution-grid-snake.svg)
 
 ---
 
