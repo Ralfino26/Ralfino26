@@ -19,8 +19,7 @@ From family role-based apps to media ecosystems — I build and maintain it myse
 ---
 
 ## 🌐 Portfolio
-**byralf.com**  
-→ https://byralf.com
+https://byralf.com
 
 ---
 
