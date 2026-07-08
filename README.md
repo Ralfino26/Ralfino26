@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bun-yellow?logo=bun&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailscale-000000?logo=tailscale&logoColor=white"/>
 </p>
