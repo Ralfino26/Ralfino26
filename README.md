@@ -1,34 +1,41 @@
 <p align="center">
-  <img src="./987D900D-2DDB-4A33-B2EF-AC4B6321488D.png" alt="Ralf Hofman — Full-Stack Developer" />
+  <img src="./byralf-mark.svg" alt="byralf" height="72" />
 </p>
 
-# Ralf Hofman — Full-Stack Developer
+<h1 align="center">byralf</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bun-yellow?logo=bun&logoColor=black"/>
+<p align="center">Ralf Hofman · Antwerpen</p>
 
-  <img src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailscale-000000?logo=tailscale&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=eaf2ec&labelColor=07120d" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bun-fbf0df?logo=bun&logoColor=000000&labelColor=07120d" alt="Bun" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=07120d" alt="Docker" />
+  <img src="https://img.shields.io/badge/Tailscale-8bff6b?logo=tailscale&logoColor=07120d&labelColor=07120d" alt="Tailscale" />
 </p>
 
-I build web apps, automations, and tools I use every day.  
-Everything runs on my own infrastructure: **homeserver, NAS, VPS, self-hosted stack, Tailscale mesh**.  
-From family role-based apps to media ecosystems — I build and maintain it myself.
+Developer, designer, maker.  
+I build websites & platforms, design identities, make video, and run hosting — all myself.  
+Doesn't exist? I build it.
 
 ---
 
-## 🌐 Portfolio
-https://byralf.com
+## Portfolio
+
+[byralf.com](https://byralf.com)
 
 ---
 
-![](https://raw.githubusercontent.com/Ralfino26/Ralfino26/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ralfino26/Ralfino26/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ralfino26/Ralfino26/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ralfino26/Ralfino26/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
-## 📬 Info
+## Info
+
 **Mail:** info@byralf.com  
-**Portfolio:** https://byralf.com  
-**Focus:** full-stack · infrastructure · selfhosting  
-**Style:** direct, efficient, no bullshit
+**Portfolio:** https://byralf.com
